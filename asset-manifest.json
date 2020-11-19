@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/agrolens/static/css/main.4f5a973e.chunk.css",
+    "main.js": "/agrolens/static/js/main.f103ceef.chunk.js",
+    "main.js.map": "/agrolens/static/js/main.f103ceef.chunk.js.map",
+    "runtime-main.js": "/agrolens/static/js/runtime-main.854cdac4.js",
+    "runtime-main.js.map": "/agrolens/static/js/runtime-main.854cdac4.js.map",
+    "static/js/2.db734459.chunk.js": "/agrolens/static/js/2.db734459.chunk.js",
+    "static/js/2.db734459.chunk.js.map": "/agrolens/static/js/2.db734459.chunk.js.map",
+    "index.html": "/agrolens/index.html",
+    "precache-manifest.28401242391b509e15a50953fc19e058.js": "/agrolens/precache-manifest.28401242391b509e15a50953fc19e058.js",
+    "service-worker.js": "/agrolens/service-worker.js",
+    "static/css/main.4f5a973e.chunk.css.map": "/agrolens/static/css/main.4f5a973e.chunk.css.map",
+    "static/js/2.db734459.chunk.js.LICENSE": "/agrolens/static/js/2.db734459.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.854cdac4.js",
+    "static/js/2.db734459.chunk.js",
+    "static/css/main.4f5a973e.chunk.css",
+    "static/js/main.f103ceef.chunk.js"
+  ]
+}
